@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993803949040",
+    "firebase_url": "https://my2020swpproj.firebaseio.com",
+    "project_id": "my2020swpproj",
+    "storage_bucket": "my2020swpproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993803949040:android:f22d8d55d107241c174335",
+        "android_client_info": {
+          "package_name": "edu.skku.map.week10ex3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993803949040-dtdmbrehem27iukkppssclvog6snmleh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.map.week10ex3",
+            "certificate_hash": "e3ddf011b89230e2514c1369e95294aecf04fb2e"
+          }
+        },
+        {
+          "client_id": "993803949040-7rjgkoaj9lmabji0mk2cimcl06b9e838.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63d_yGwimyIsgNqYyR5pf2cx-HRA9pXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993803949040-7rjgkoaj9lmabji0mk2cimcl06b9e838.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
